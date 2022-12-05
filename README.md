@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **imranaha310@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fksNUV2Yhwx2pU6eOEck7oFB13CP1E-p/view?usp=share_link](https://drive.google.com/file/d/1fksNUV2Yhwx2pU6eOEck7oFB13CP1E-p/view?usp=share_link)
+- 📄 Know about my experiences [https://cutt.ly/T1V0CtP](https://cutt.ly/T1V0CtP)
 
 - ⚡ Fun fact **To start press any key,where's the any key**
 
