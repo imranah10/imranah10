@@ -18,7 +18,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/imran-ahamad-aa257520" target="blank"><img align="center"
+<a href="https://www.linkedin.com/in/imran-ahmad-aa257520b/" target="blank"><img align="center"
     src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
     alt="imran-ahamad-aa257520" height="30" width="40" />imran-ahamad-aa257520</a>
 </p>
