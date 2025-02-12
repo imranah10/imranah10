@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm IMRAN AHMAD</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer</h3>
 <img align="right"width="450"src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranah10&label=Profile%20views&color=0e75b6&style=flat" alt="imranah10" /> </p>
 
-- 🔭 I’m currently working on **Note taking App**
+- 🔭 I’m currently working on **Ship rocket App**
 
 - 🌱 I’m currently learning **React JS, MERN Stack**
 
