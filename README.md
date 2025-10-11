@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm IMRAN AHMAD</h1>
-<h3 align="center">A passionate Web Developer</h3>
+<h3 align="center">A passionate MERN Developer + AI Web Developer</h3>
 <img align="right"width="450"src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imranah10&label=Profile%20views&color=0e75b6&style=flat" alt="imranah10" /> </p>
 
-- 🔭 I’m currently working on **Ship rocket App** at <a href="https://github.com/VidyaInternaHub/ship-rocket">Vidyainternahub</a>
+- 🔭 I’m currently working on **Ignite Onboard CRM ** at <a href="https://github.com/VidyaInternaHub/ship-rocket">MyVirtulaMate</a>
 
 - 🌱 I’m currently learning **React JS, MERN Stack**
 
