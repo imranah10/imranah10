@@ -1,145 +1,95 @@
-<h1 align="center">Hi 👋, I'm IMRAN AHMAD</h1>
-<h3 align="center">A passionate MERN Developer + AI Web Developer</h3>
-<img align="right"width="450"src="https://media.tenor.com/GVk4jB2u_i8AAAAd/coding.gif">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=IMRAN%20AHMAD&fontSize=80&animation=fadeIn&fontAlignY=35&desc=MERN%20STACK%20ENGINEER%20|%20AI%20SURGEON&descAlignY=55&descSize=20" width="100%" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imranah10&label=Profile%20views&color=0e75b6&style=flat" alt="imranah10" /> </p>
+<div align="center">
+  <br/>
+  <a href="https://reactportfolio-mu-hazel.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/DECRYPT_PORTFOLIO_2026-ACCESS_GRANTED-00FF00?style=for-the-badge&logo=react&logoColor=black" height="45" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on Ignite Onboard CRM at <a href="https://myvirtualmate.com.au/">MyVirtulaMate</a>
+---
 
-- 🌱 I’m currently learning **React JS, MERN Stack**
+### 🛡️ Mission: AXIO-LINK
+> "Current Objective: Building the world's most intelligent connectivity bridge using MERN + Generative AI."
 
-- 💬 Ask me about **HTML, CSS, JAVASCRIPT, REACT JS**
+- 🚀 **Status**: Deploying Advanced Logic
+- 🌱 **Learning**: Quantum React & AI-Native Architecture
+- ⚡ **Activity**: 366/366 Days of relentless evolution in 2025.
 
-- 📫 How to reach me **imranaha310@gmail.com**
+---
 
-- 📄 Know about my experiences [https://reactportfolio-mu-hazel.vercel.app/](https://reactportfolio-mu-hazel.vercel.app/)
-
-- ⚡ Fun fact **To start press any key,where's the any key**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/imran-ahmad-aa257520b/" target="blank"><img align="center"
-    src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
-    alt="imran-ahamad-aa257520" height="30" width="40" />imran-ahamad-aa257520</a>
+### 🧠 The AI Neural Network (Vibe Coding Arsenal)
+<p align="center">
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/Lovable-FF00FF?style=for-the-badge&logo=sparkles&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grok_xAI-000000?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-20B2AA?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt_Eng-FFD700?style=for-the-badge&logo=ai&logoColor=black" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg"
-      alt="bootstrap"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
+### 💻 Full-Stack Implants (The Tech Core)
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_JS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 </p>
 
-<p>
-  <img
-    align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=imranah10&show_icons=true&locale=en&layout=compact"
-    alt="imranah10"
-  />
+### 🔧 Deep-System Utilities
+<p align="center">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-000000?style=for-the-badge&logo=freebsd&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
-<p>
-  &nbsp;<img
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=imranah10&show_icons=true&locale=en"
-    alt="imranah10"
-  />
+---
+
+---
+
+### 📊 System Performance & Neural Pulse (2025-2026)
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranah10&theme=tokyonight&area=true&hide_border=true&point=true" width="100%" alt="Neural Pulse Graph" />
 </p>
 
-<p>
-  <img
-    align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=imranah10&"
-    alt="imranah10"
-  />
+
+<br/>
+
+---
+
+### 🏗️ 2025-2026 Contribution 3D View (New Achievement Logic)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranah10&theme=tokyonight" width="100%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=imranah10&theme=tokyonight" width="100%" />
+</div>
+
+---
+
+### 🤝 Initialize Connection
+<p align="center">
+<a href="https://www.linkedin.com/in/imran-ahmad-aa257520b/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-INITIATE-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:imranaha310@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-DECRYPT-red?style=for-the-badge&logo=gmail" />
+</a>
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
