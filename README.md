@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=IMRAN%20AHMAD&fontSize=80&animation=fadeIn&fontAlignY=35&desc=MERN%20STACK%20ENGINEER%20|%20AI%20SURGEON&descAlignY=55&descSize=20" width="100%" />
-</div>
+<img width="2816" height="1536" alt="Imran Ahmad - AI Architect Banner" src="https://github.com/user-attachments/assets/4dcc4948-ec98-4691-80e1-33642059f7ef" />
+
 
 <div align="center">
   <br/>
