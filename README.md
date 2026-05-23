@@ -1,6 +1,5 @@
 <img width="2816" height="1536" alt="Imran Ahmad - AI Architect Banner" src="https://github.com/user-attachments/assets/4dcc4948-ec98-4691-80e1-33642059f7ef" />
 
-
 <div align="center">
   <br/>
   <a href="https://reactportfolio-mu-hazel.vercel.app/" target="_blank">
@@ -10,42 +9,132 @@
 
 ---
 
-### 👑 The AI-Augmented Architect & Product Visionary
+# 👑 The AI-Augmented Architect & Product Visionary
 
-**I don't just write code; I orchestrate intelligence.**
+## **I don't just write code; I orchestrate intelligence.**
 
-In an era where AI can generate syntax, the real value lies in **architectural vision and product strategy**. I am a new breed of developer who leverages advanced LLMs (GPT-5, Gemini 3 Pro) not just as coding assistants, but as high-power engines to build complex, enterprise-grade SaaS platforms rapidly.
+In an era where AI can generate syntax, the real value lies in **architectural vision and product strategy**. I am a new breed of developer who leverages advanced LLMs (GPT-5, Gemini 3 Pro, Claude Sonnet) not just as coding assistants, but as high-power engines to build complex, enterprise-grade SaaS platforms rapidly.
 
-My expertise lies in bridging the gap between raw technical execution (MERN Stack) and high-level business logic (FinOps, Security, Scalability).
-
----
-
-### 🛡️ Current Mission: AXIO-AGENT
-> "Building the world's most intelligent node-less automation platform. Replacing traditional spaghetti workflows with Intent-Driven AI orchestration."
-
-- 🚀 **Status**: Architecting Universal Execution Engines
-- 🌱 **Learning**: Quantum React & AI-Native Architecture
-- ⚡ **Activity**: 366/366 Days of relentless evolution.
+My expertise lies in bridging the gap between raw technical execution (MERN Stack) and high-level business logic — security, scalability, and zero-trust architecture.
 
 ---
 
-## 🧠 My Philosophy: The "AI Surgeon" Approach
+# 🚀 Current Mission: PromptForge
 
-I believe the future of software engineering isn't about typing every line manually; it's about directing powerful tools with precision. I act as the lead architect, using AI models as my scalpels to dissect complex problems and build robust solutions.
+> *"Unifying 10+ frontier AI models into one professional workbench. Eliminating the $60/month subscription tax. Giving power back to creators, engineers, and builders."*
 
-### ⚡ Man vs. Machine: How Human Vision Outpaces AI
-
-While building platforms like **Axio-Agent**, I utilize AI extensively. However, raw computational power cannot replace human foresight. **Key instances where my product vision corrected the AI's architectural blind spots:**
-
-> 1.  **Inventing the "Universal Engine":** When designing the backend, AI models defaulted to suggesting limited, hardcoded integrations. I recognized this limitation and directed the AI to architect a **"Universal Execution Engine"** based on dynamic LLM Function Calling, allowing integration with *any* API globally without writing new code.
->
-> 2.  **Ensuring Viable Unit Economics (FinOps):** The AI generated perfect code for webhooks and pricing tiers, but failed to connect them logically. I identified this critical business gap, ensuring the final architecture rigorously enforced credit deductions before live execution—turning a technical prototype into a viable business model.
-
-**The takeaway:** AI builds fast, but I ensure it builds *right*.
+- 🔥 **Status**: Live & Evolving — [PromptForge](https://promptforge-navy-psi.vercel.app/)
+- 🧠 **Core Idea**: BYOK (Bring Your Own Key)
+- ⚡ **Activity**: 366/366 Days of relentless building
 
 ---
 
-### 🧠 The AI Neural Network (Vibe Coding Arsenal)
+# 🧠 What is PromptForge?
+
+**PromptForge** is a professional-grade, high-performance AI workbench designed for elite creators, developers, and AI engineers.
+
+It consolidates **10+ frontier LLMs** (GPT-4o, Claude Sonnet, Gemini 1.5, DeepSeek R1, Grok) into a **unified modular dashboard** — allowing users to leverage the full power of AI without the "Subscription Tax."
+
+---
+
+# 📊 PromptForge vs Traditional AI Platforms
+
+| Feature | Paid AI Subscriptions | PromptForge |
+|----------|----------------------|-------------|
+| 💰 Cost | $20–$60/mo per platform | Pay-per-use (API cost only) |
+| 🧠 Model Access | Locked to 1 provider | 10+ LLMs (GPT, Claude, Gemini, DeepSeek) |
+| 🔒 Privacy | Data processed on servers | 100% client-side |
+| ⚡ Flexibility | Fixed toolset | 15+ specialized modular tools |
+| 🔑 API Keys | Provider-managed | BYOK — Your Keys, Your Control |
+| 🚀 Speed | Standard interfaces | Optimized productivity workspace |
+| 🛡️ Storage | Backend storage | Zero backend prompt storage |
+
+---
+
+# ⚙️ Core Features
+
+## 🎯 15+ Specialized AI Tools
+
+- **AI Writer** — Multi-turn conversations with Expert Persona systems
+- **Creator Studio** — Viral content engine for 7+ social platforms
+- **Data Wizard** — SQL, Pandas, and Regex automation
+- **SEO Optimizer** — Keyword strategy and cluster planning
+- **Prompt Optimizer** — Turn 1-line prompts into Mega Prompts
+- **Model Compare** — Compare outputs from multiple AI models
+- **Image Studio Pro** — Generate images with Flux & DALL-E 3
+- **Code Helper** — Debug and generate production-ready code
+- **Chat with Data** — Chat with PDFs, CSVs, and images
+- **The Inventor** — Product idea validation engine
+- **The Spider** — AI-powered research aggregation
+- **Video Prompt** — Cinematic video prompt generation
+- **Sell & Earn** — Monetization layer for creators
+
+---
+
+# 🛡️ Zero-Trust Privacy Architecture
+
+- 🔐 **Client-Side Sovereignty** — API keys never leave your browser
+- 💾 **Encrypted LocalStorage** — Stored only on your machine
+- 🚫 **No Backend Database** — No prompt/history storage
+- ⚡ **Direct-to-API** — Browser communicates directly with providers
+
+---
+
+# 💰 Monarch Monetization Engine
+
+| Plan | Features |
+|------|-----------|
+| 🆓 Free Tier | Limited monthly tasks |
+| 👑 Pro Tier | Unlimited access + all tools |
+| 💸 Sell & Earn | Monetize prompts directly |
+
+---
+
+# 🧠 My Philosophy: The "AI Surgeon" Approach
+
+I believe the future of software engineering isn't about typing every line manually — it's about **directing powerful tools with precision**.
+
+I act as the lead architect, using AI models as my scalpels to dissect complex problems and build robust solutions.
+
+---
+
+# ⚡ Human Vision Outpaces Raw AI
+
+While building PromptForge, I used AI extensively. But raw computation cannot replace human foresight.
+
+## Key moments where my product vision corrected AI's blind spots:
+
+### 1️⃣ Designing the BYOK Architecture
+
+AI suggested traditional backend key management.
+
+I redesigned the system into a:
+
+- ✅ 100% Client-Side Vault
+- ✅ Zero-Trust Architecture
+- ✅ Fully Encrypted Browser Storage
+
+Making PromptForge one of the few AI workbenches where the provider cannot access user keys.
+
+---
+
+### 2️⃣ Building Sustainable Monetization
+
+AI generated tools individually but failed to connect monetization logic.
+
+I designed:
+
+- Credit systems
+- Usage gating
+- Scalable monetization flow
+- Sustainable unit economics
+
+Transforming isolated tools into a real SaaS product.
+
+---
+
+# 🧠 The AI Neural Network (Vibe Coding Arsenal)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
   <img src="https://img.shields.io/badge/Lovable-FF00FF?style=for-the-badge&logo=sparkles&logoColor=white" />
@@ -55,7 +144,10 @@ While building platforms like **Axio-Agent**, I utilize AI extensively. However,
   <img src="https://img.shields.io/badge/Prompt_Eng-FFD700?style=for-the-badge&logo=ai&logoColor=black" />
 </p>
 
-### 💻 Full-Stack Implants (The Tech Core)
+---
+
+# 💻 Full-Stack Implants (The Tech Core)
+
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
@@ -64,12 +156,15 @@ While building platforms like **Axio-Agent**, I utilize AI extensively. However,
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-EF008F?style=for-the-badge&logo=framer&logoColor=white" />
 </p>
 
-### 🔧 Deep-System Utilities & FinOps
+---
+
+# 🔧 Deep-System Utilities & FinOps
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Stripe_Billing-008CDD?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tesseract_OCR-FF0000?style=for-the-badge&logo=tesseract&logoColor=white" />
   <img src="https://img.shields.io/badge/AES--256_Crypto-FF0000?style=for-the-badge&logo=letsencrypt&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -79,15 +174,16 @@ While building platforms like **Axio-Agent**, I utilize AI extensively. However,
 
 ---
 
-### 📊 System Performance & Neural Pulse
+# 📊 System Performance & Neural Pulse
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=imranah10&theme=tokyonight&area=true&hide_border=true&point=true" width="100%" alt="Neural Pulse Graph" />
 </p>
 
-<br/>
+---
 
-### 🏗️ Contribution 3D View
+# 🏗️ Contribution 3D View
+
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imranah10&theme=tokyonight" width="100%" />
 </div>
@@ -100,13 +196,19 @@ While building platforms like **Axio-Agent**, I utilize AI extensively. However,
 
 ---
 
-### 🤝 Initialize Connection
+# 🤝 Initialize Connection
+
 <p align="center">
 <a href="https://www.linkedin.com/in/imran-ahmad-aa257520b/" target="_blank">
   <img src="https://img.shields.io/badge/LINKEDIN-INITIATE-blue?style=for-the-badge&logo=linkedin" />
 </a>
+
 <a href="mailto:imranaha310@gmail.com">
   <img src="https://img.shields.io/badge/EMAIL-DECRYPT-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://promptforge-navy-psi.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/PROMPTFORGE-LAUNCH_APP-00FF00?style=for-the-badge&logo=vercel&logoColor=black" />
 </a>
 </p>
 
